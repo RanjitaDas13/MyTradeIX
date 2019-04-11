@@ -7,3 +7,4 @@ Steps:-
 6. run "mvn install"
 7. You will see the tests run which shows employee created, salary updated and employee deleted in the same screen.
 8. To rerun the tests you can also use "mvn test" command in command prompt
+9. Verify the logs generated in MyTask/logs/log.log file which keeps on getting updated with everytime you run the tests.
